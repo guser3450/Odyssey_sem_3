@@ -1,0 +1,11 @@
+C:\CodeBoxx\Odyssey\semaine_3\livrable\obj\Debug\netcoreapp3.1\livrable.csprojAssemblyReference.cache
+C:\CodeBoxx\Odyssey\semaine_3\livrable\obj\Debug\netcoreapp3.1\livrable.AssemblyInfoInputs.cache
+C:\CodeBoxx\Odyssey\semaine_3\livrable\obj\Debug\netcoreapp3.1\livrable.AssemblyInfo.cs
+C:\CodeBoxx\Odyssey\semaine_3\livrable\bin\Debug\netcoreapp3.1\livrable.exe
+C:\CodeBoxx\Odyssey\semaine_3\livrable\bin\Debug\netcoreapp3.1\livrable.deps.json
+C:\CodeBoxx\Odyssey\semaine_3\livrable\bin\Debug\netcoreapp3.1\livrable.runtimeconfig.json
+C:\CodeBoxx\Odyssey\semaine_3\livrable\bin\Debug\netcoreapp3.1\livrable.runtimeconfig.dev.json
+C:\CodeBoxx\Odyssey\semaine_3\livrable\bin\Debug\netcoreapp3.1\livrable.dll
+C:\CodeBoxx\Odyssey\semaine_3\livrable\bin\Debug\netcoreapp3.1\livrable.pdb
+C:\CodeBoxx\Odyssey\semaine_3\livrable\obj\Debug\netcoreapp3.1\livrable.dll
+C:\CodeBoxx\Odyssey\semaine_3\livrable\obj\Debug\netcoreapp3.1\livrable.pdb
